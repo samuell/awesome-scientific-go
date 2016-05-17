@@ -1,5 +1,5 @@
 # Awesome Scientific Go
-Go libraries for scientific computing
+Go (Golang) libraries for scientific computing
 
 ## Algorithmic programming libraries
 - [BioGo](https://github.com/biogo/biogo) - A bioinformatics library
