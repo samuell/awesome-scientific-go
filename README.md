@@ -2,9 +2,10 @@
 Go (Golang) libraries for scientific computing
 
 ## Algorithmic programming libraries
-- [BioGo](https://github.com/biogo/biogo) - A bioinformatics library
-- [GoNum](https://github.com/gonum) - Numerical computing in Go
-- [GoChem](http://gochem.org/) - A library for computational chemistry (cheminformatics)
+- [biogo](https://github.com/biogo/biogo) - A bioinformatics library
+- [goChem](http://gochem.org/) - A library for computational chemistry (cheminformatics)
+- [go-hep](http://github.com/go-hep) - Go-based software for the High Energy Physics community
+- [gonum](https://github.com/gonum) - Numerical computing in Go
 
 ## User interface tools
 - [GopherNotes](https://github.com/gophergala2016/gophernotes) - Jupyter notebook support for Go
