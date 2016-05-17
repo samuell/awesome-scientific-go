@@ -1,5 +1,7 @@
 # Awesome Scientific Go
-Go (Golang) libraries for scientific computing
+Go (Golang) libraries for scientific computing. 
+
+This list is focused on libraries that are not (yet) included in [Awesome Go/Science and Data Analysis](https://github.com/avelino/awesome-go#science-and-data-analysis) for one reason or another.
 
 ## Field-specific projects
 
