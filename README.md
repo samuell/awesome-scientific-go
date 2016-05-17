@@ -2,11 +2,19 @@
 Go (Golang) libraries for scientific computing
 
 ## Field-specific projects
-- [biogo](https://github.com/biogo/biogo) - A bioinformatics library
+
+### Biology
+- [biogo](https://github.com/biogo/biogo) - A bioinformatics library in Go
+- [gobio](https://github.com/brentp/gobio) - Miscellaneous script-like stuff in Go for Bioinformatics
+- [mendelics/vcf](https://github.com/mendelics/vcf) - A Variant Call Format parser
+
+### Chemistry
 - [goChem](http://gochem.org/) - A library for computational chemistry (cheminformatics)
+
+### Physics
 - [go-hep](http://github.com/go-hep) - Go-based software for the High Energy Physics community
 
-## Algorithmic programming libraries
+## Generic algorithmic libraries
 - [gonum](https://github.com/gonum) - Numerical computing in Go
 
 ## Interactive tools
