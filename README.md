@@ -15,4 +15,5 @@ Go (Golang) libraries for scientific computing
 - [SciPipe](https://github.com/scipipe/scipipe) - A scientific workflow library written in Go
 
 ## See also
-- [Awesome Go # Science and Data Analysis](https://github.com/avelino/awesome-go#science-and-data-analysis)
+- [Awesome Go](https://github.com/avelino/awesome-go)
+- [Awesome Go / Science and Data Analysis](https://github.com/avelino/awesome-go#science-and-data-analysis)
