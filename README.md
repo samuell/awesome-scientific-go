@@ -21,7 +21,7 @@ Go (Golang) libraries for scientific computing
 - [GopherNotes](https://github.com/gophergala2016/gophernotes) - Jupyter notebook support for Go
 
 ## Infrastructure tools
-- [Antha Language](https://www.antha-lang.org/) - A high-level language for biology (lab) experiments
+- [Antha](https://www.antha-lang.org/) - A high-level language for biology (lab) experiments
 - [Automi](https://github.com/vladimirvivien/automi) - Composable Stream Processing on top of Go Channels
 - [Glow](https://github.com/chrislusf/glow) - An easy-to-use distributed computation system similar to Hadoop Map Reduce, Spark, Flink, Storm, etc.
 - [GoFlow](https://github.com/trustmaster/goflow) - Flow-based programming library in Go
