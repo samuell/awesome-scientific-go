@@ -23,6 +23,7 @@ Go (Golang) libraries for scientific computing
 ## Infrastructure tools
 - [Automi](https://github.com/vladimirvivien/automi) - Composable Stream Processing on top of Go Channels
 - [Glow](https://github.com/chrislusf/glow) - An easy-to-use distributed computation system similar to Hadoop Map Reduce, Spark, Flink, Storm, etc.
+- [GoFlow](https://github.com/trustmaster/goflow) - Flow-based programming library in Go
 - [SciPipe](https://github.com/scipipe/scipipe) - A scientific workflow library written in Go
 
 ## See also
