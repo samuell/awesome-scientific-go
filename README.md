@@ -33,3 +33,4 @@ This list is focused on libraries that are not (yet) included in [Awesome Go/Sci
 ## See also
 - [Awesome Go](https://github.com/avelino/awesome-go)
 - [Awesome Go / Science and Data Analysis](https://github.com/avelino/awesome-go#science-and-data-analysis)
+- [Go libraries for data science](http://www.mjhall.org/golang-data-science-libraries/)
