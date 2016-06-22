@@ -27,6 +27,7 @@ This list is focused on libraries that are not (yet) included in [Awesome Go/Sci
 - [Automi](https://github.com/vladimirvivien/automi) - Composable Stream Processing on top of Go Channels
 - [Glow](https://github.com/chrislusf/glow) - An easy-to-use distributed computation system similar to Hadoop Map Reduce, Spark, Flink, Storm, etc.
 - [GoFlow](https://github.com/trustmaster/goflow) - Flow-based programming library in Go
+- [Pachyderm](https://github.com/pachyderm/pachyderm) - Containerized Data lake / Data analytics platform
 - [SciPipe](https://github.com/scipipe/scipipe) - A scientific workflow library written in Go
 
 ## See also
