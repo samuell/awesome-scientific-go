@@ -9,6 +9,7 @@ This list is focused on libraries that are not (yet) included in [Awesome Go/Sci
 - [biogo](https://github.com/biogo/biogo) - A bioinformatics library in Go
 - [gobio](https://github.com/brentp/gobio) - Miscellaneous script-like stuff in Go for Bioinformatics
 - [mendelics/vcf](https://github.com/mendelics/vcf) - A Variant Call Format parser
+- [shenwei356/seqkit](https://github.com/shenwei356/seqkit) - a cross-platform toolkit for FASTA/Q file manipulation
 
 ### Chemistry
 - [goChem](http://gochem.org/) - A library for computational chemistry (cheminformatics)
